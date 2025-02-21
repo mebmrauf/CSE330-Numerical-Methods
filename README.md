@@ -25,6 +25,9 @@ https://youtu.be/g3IQhiSkBh8?si=w0ornZy3NF-fb9Le
 ### Rounding Error
 https://youtu.be/-RQa4WeHSwc?si=sz4zoad7l5gFR51g
 
+### Loss of Significance
+https://youtu.be/R6IaupWHQCg?si=Fisx5AEJn8_nJYHq
+
 ## Chapter 02
 
 ### Polynomial
