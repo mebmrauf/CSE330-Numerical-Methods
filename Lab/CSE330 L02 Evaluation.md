@@ -145,7 +145,7 @@ Value of the interpolating ploynoial at x = 3:
 2.7599999999999953
 ```
 
-## Task2
+## Task 02
 
 **Suppose, you have five nodes (-1.2, 2.15), (0.8, 3.45), (1.9, 4.12), (-0.5, 1.75), and (2.3, 5.05). Using Vandermonde Matrix method, find and print the value of the interpolating ploynoial at x = 6. You have to solve the given problem using above implemented get_poly() method.**
 
