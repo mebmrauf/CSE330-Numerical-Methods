@@ -1,8 +1,11 @@
 # Class Evaluation
 
 ```
+import numpy as np
+```
+
+```
 '''
-Lab task 1
 Here we implement a Polynomial class with three methods: the constructor
 __init__(), the toString method __repr__(), and a method to make the objects
 of the class callable, __call__() method
@@ -86,6 +89,7 @@ class Polynomial:
     # --------------------------------------------
 ```
 
+
 ```
 '''
 Here we implement a function which takes a discrete x and y array, and returns
@@ -117,6 +121,7 @@ def get_poly(data_x, data_y):
 
     return p
 ```
+
 
 ## Task 01
 
