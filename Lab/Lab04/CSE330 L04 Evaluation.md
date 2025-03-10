@@ -68,6 +68,12 @@ class Newtons_Divided_Differences:
         return res
 ```
 
+## Task
+
+**Suppose, the given original function is sin(x) [f(x) = sin(x)]. Now, the given nodes are -π/2, 0, π/2. Calculate the value of the interpolating polynomial at x = π/4 and show the truncation error.**
+
+**To get the value of π you can import the math library and just type in math.pi to get values of sin(x) function at any given point of x, just type math.sin(x)**
+
 ```
 data_x = np.array([-(math.pi/2), 0, math.pi/2])
 data_y = np.array([math.sin(-(math.pi/2)), math.sin(0), math.sin(math.pi/2)])
