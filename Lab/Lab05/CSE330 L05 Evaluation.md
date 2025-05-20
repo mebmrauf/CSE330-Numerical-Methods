@@ -42,7 +42,6 @@ print(f"Central Diff : {round(Dh3, 2)}")
 
 ```
 Output:
-
 Central Diff : 81.97
 
 Central Diff : 61.67
