@@ -55,7 +55,7 @@ Actual root: 0.618034839630127
 
 **b. Given,**
 
-  **g<sub>1</sub>(x) = ((1/2.5)(-x<sup>5</sup> + 2x<sup>3</sup> + 6x<sup>2</sup> - 0.5x - 2))<sup>1/4</sup>**
+  **g<sub>1</sub>(x) = [(1/2.5)(-x<sup>5</sup> + 2x<sup>3</sup> + 6x<sup>2</sup> - 0.5x - 2)]<sup>1/4</sup>**
 
 **Apply Fixed Point Method on the g<sub>1</sub>(x) and find the appropriate root, show 20 iterations for x<sub>0</sub> = 0.8 and show the convergence table using data from each iteration.**
 
