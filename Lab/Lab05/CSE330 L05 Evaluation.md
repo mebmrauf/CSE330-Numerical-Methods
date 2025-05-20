@@ -39,3 +39,11 @@ print(f"Central Diff : {round(Dh, 2)}\n")
 Dh3 = dh1(p, 0.4, 1)
 print(f"Central Diff : {round(Dh3, 2)}")
 ```
+
+```
+Output:
+
+Central Diff : 81.97
+
+Central Diff : 61.67
+```
