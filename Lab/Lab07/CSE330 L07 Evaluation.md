@@ -8,16 +8,24 @@ np.set_printoptions(precision=6, formatter={'all': lambda x: f'{x:f}'})
 ## Task
 
 **a + 2b + 3c + 4d + 5e = 55**
+
 **- a + 3c + 5e = 33 - 2b - 4d**
+
 **5e + 3c - 44 = -4b + a - 4d**
+
 **- 3c + 5e - 22 = a -4d - 4b**
+
 **3b - a = 11 - 2d**
 
 **Find the solution of the above system of equations using the Gauss Elimination method. Generate and print :**
-**1. The augmented matrix (a 2D numpy array).
-2. The row multipliers (a 2D numpy array).
-3. The resulting upper triangular matrix (a 2D numpy array).
-4. The solutions (a 1D numpy array).**
+
+**1. The augmented matrix (a 2D numpy array).**
+
+**2. The row multipliers (a 2D numpy array).**
+
+**3. The resulting upper triangular matrix (a 2D numpy array).**
+
+**4. The solutions (a 1D numpy array).**
 
 ```
 def get_result_gaussian_elimination(n, A_aug):
