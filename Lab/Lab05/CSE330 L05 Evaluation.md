@@ -23,4 +23,4 @@ def dh(f, h, x):
 
 **Consider the following function:**
 
-f(x) = 5x<sup>6</sup>
+**f(x) = 5x<sup>6</sup>**
