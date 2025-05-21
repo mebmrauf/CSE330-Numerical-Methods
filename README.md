@@ -17,10 +17,10 @@ https://youtube.com/playlist?list=PLlYXfIWiDLYygs1I_ZFCUS_Oc8Oxuf_n1&si=l-VkyzYL
 ## Chapter 01
 
 ### Floating Point Representation
-https://youtu.be/0JeXaAk9P80?si=9a62ga5-Blk3HxWN
+  https://youtu.be/0JeXaAk9P80?si=9a62ga5-Blk3HxWN
 
 ### IEEE Standard (1985) for Double Precision
-https://youtu.be/g3IQhiSkBh8?si=w0ornZy3NF-fb9Le
+  https://youtu.be/g3IQhiSkBh8?si=w0ornZy3NF-fb9Le
 
 ### Rounding Error
 https://youtu.be/-RQa4WeHSwc?si=sz4zoad7l5gFR51g
