@@ -116,7 +116,7 @@ Computer Arithmetic: floating point representation of numbers, arithmetic operat
 ### Chapter 07
 
 #### Integration Part 1
-https://youtu.be/qXTlqVX5a2E?si=YEvnNrxm6rF2gy86
+    https://youtu.be/qXTlqVX5a2E
 
 #### Integration Part 2
-https://youtu.be/ZUeWmSuD0WA?si=6UrTIuLwoG9KyBjL
+    https://youtu.be/ZUeWmSuD0WA
